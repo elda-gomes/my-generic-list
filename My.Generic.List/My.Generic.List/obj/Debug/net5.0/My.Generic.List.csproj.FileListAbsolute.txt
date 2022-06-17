@@ -1,0 +1,12 @@
+C:\Users\elda_\source\repos\my-generic-list\My.Generic.List\My.Generic.List\bin\Debug\net5.0\My.Generic.List.deps.json
+C:\Users\elda_\source\repos\my-generic-list\My.Generic.List\My.Generic.List\bin\Debug\net5.0\My.Generic.List.dll
+C:\Users\elda_\source\repos\my-generic-list\My.Generic.List\My.Generic.List\bin\Debug\net5.0\ref\My.Generic.List.dll
+C:\Users\elda_\source\repos\my-generic-list\My.Generic.List\My.Generic.List\bin\Debug\net5.0\My.Generic.List.pdb
+C:\Users\elda_\source\repos\my-generic-list\My.Generic.List\My.Generic.List\obj\Debug\net5.0\My.Generic.List.csproj.AssemblyReference.cache
+C:\Users\elda_\source\repos\my-generic-list\My.Generic.List\My.Generic.List\obj\Debug\net5.0\My.Generic.List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elda_\source\repos\my-generic-list\My.Generic.List\My.Generic.List\obj\Debug\net5.0\My.Generic.List.AssemblyInfoInputs.cache
+C:\Users\elda_\source\repos\my-generic-list\My.Generic.List\My.Generic.List\obj\Debug\net5.0\My.Generic.List.AssemblyInfo.cs
+C:\Users\elda_\source\repos\my-generic-list\My.Generic.List\My.Generic.List\obj\Debug\net5.0\My.Generic.List.csproj.CoreCompileInputs.cache
+C:\Users\elda_\source\repos\my-generic-list\My.Generic.List\My.Generic.List\obj\Debug\net5.0\My.Generic.List.dll
+C:\Users\elda_\source\repos\my-generic-list\My.Generic.List\My.Generic.List\obj\Debug\net5.0\ref\My.Generic.List.dll
+C:\Users\elda_\source\repos\my-generic-list\My.Generic.List\My.Generic.List\obj\Debug\net5.0\My.Generic.List.pdb
