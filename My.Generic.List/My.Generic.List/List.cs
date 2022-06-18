@@ -86,5 +86,14 @@ namespace My.Generic.List
 
             throw new IndexOutOfRangeException();
         }
+
+        public T[] ToArray()
+        {
+            T[] array = new T[this._index];
+
+            Array.Copy(sourceArray: this._listItems, destinationArray: array, length: this._index);
+
+            return array;
+        }
     }
 }
